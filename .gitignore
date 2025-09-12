@@ -1,0 +1,6 @@
+.venv/
+clean_data/
+data/
+processed_data/
+merged_data/
+zipped_data/
